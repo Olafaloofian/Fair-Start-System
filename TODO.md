@@ -1,0 +1,2 @@
+- Figure out servo bugs (Power Supply?)
+- Add LED functionality
